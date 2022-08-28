@@ -1,0 +1,13 @@
+# ninja log v5
+0	372	1661242590818068010	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+372	471	1661242590918068541	SumOfNNaturalNumbers	d68cf03a0d71efc4
+1	441	1661242968236071929	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+441	540	1661242968332072439	SumOfNNaturalNumbers	d68cf03a0d71efc4
+2	434	1661242998836234409	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+434	528	1661242998928234896	SumOfNNaturalNumbers	d68cf03a0d71efc4
+1	388	1661243030000399872	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+388	478	1661243030092400361	SumOfNNaturalNumbers	d68cf03a0d71efc4
+1	391	1661243042712467369	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+392	485	1661243042808467879	SumOfNNaturalNumbers	d68cf03a0d71efc4
+1	405	1661243057284544750	CMakeFiles/SumOfNNaturalNumbers.dir/main.cpp.o	3b5f27db05f62615
+406	502	1661243057380545260	SumOfNNaturalNumbers	d68cf03a0d71efc4
